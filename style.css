@@ -54,7 +54,7 @@ img {
 
 .section-content {
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 0 100px;
     max-width: var(--site-max-width);
 }
 
@@ -86,7 +86,7 @@ header .navbar {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 20px;
+    padding: 20px 100px;
 }
 
 .navbar .nav-logo .logo-text {
